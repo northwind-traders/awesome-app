@@ -1,5 +1,3 @@
 var bar = function () {
-  console.log('bar - I can haz conflict?');
-
-  console.log('I\'m awesome');
+  console.log('barz - I can haz conflict?');
 };
